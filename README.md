@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yara Adel</h1>
-<h3 align="center">A passionate frontend developer from Toronto</h3>
+<h3 align="center">A passionate self taught web developer. Feel Free to explore my projects and even build upon them!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxfb777&label=Profile%20views&color=0e75b6&style=flat" alt="yxfb777" /> </p>
 
