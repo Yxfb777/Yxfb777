@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yara Adel</h1>
-<h3 align="center">A passionate self taught web developer. Feel Free to explore my projects and even build upon them!</h3>
+<h3 align="center">A passionate frontend developer. Feel Free to explore my projects and even build upon them!</h3>
 
 <img align="right" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxfb777&label=Profile%20views&color=0e75b6&style=flat" alt="yxfb777" /> </p>
 
@@ -19,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yxfb777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yxfb777" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yaraadel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaraadel" height="30" width="40" /></a>
 <a href="https://fb.com/yara adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yara adel" height="30" width="40" /></a>
 <a href="https://instagram.com/_yxfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yxfb" height="30" width="40" /></a>
 </p>
