@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yara Adel</h1>
 <h3 align="center">A passionate self taught web developer. Feel Free to explore my projects and even build upon them!</h3>
 
+<img align="right" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxfb777&label=Profile%20views&color=0e75b6&style=flat" alt="yxfb777" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yxfb777" target="blank"><img src="https://img.shields.io/twitter/follow/yxfb777?logo=twitter&style=for-the-badge" alt="yxfb777" /></a> </p>
